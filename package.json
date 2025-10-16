@@ -1,0 +1,13 @@
+{
+  "name": "key-bot",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "bot.js",
+  "dependencies": {
+    "discord.js": "^14.15.3",
+    "node-fetch": "^3.3.2"
+  },
+  "scripts": {
+    "start": "node bot.js"
+  }
+}
