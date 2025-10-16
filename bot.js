@@ -6,7 +6,6 @@ const client = new Client({
 });
 
 // CONFIG
-const DISCORD_TOKEN = "MTQyODQwOTUzOTI5MTUxNzAxMA.GaB6MN.xuRscc86zrE0TTiYf95Rf_0jc8N_WpScrLWIpY";
 const FIREBASE_URL = "https://reupload-91f8f-default-rtdb.firebaseio.com";
 const FIREBASE_AUTH = ""; // opcional: ?auth=TOKEN
 
